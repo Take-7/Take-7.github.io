@@ -40,7 +40,6 @@ Canal do Criador   Canal do Criador
 Canal Educacao   Canal Educacao
 Canal Rural   Canal Rural
 Canal Teste 2   Canal Teste 2
-Canal UOL   Canal UOL
 CANAL UOL   CANAL UOL
 CANÇÃO NOVA HD   CANÇÃO NOVA HD
 Cartoon HD   Cartoon HD
@@ -263,6 +262,7 @@ Premiere 6   Premiere 6
 Premiere 7   Premiere 7
 Premiere 9   Premiere 9
 PREMIERE CLUBES HD   PREMIERE CLUBES HD
+premiere-2   premiere-2
 Prime Box Brazil HD   Prime Box Brazil HD
 pronto-socorro-historias-de-emergencia   pronto-socorro-historias-de-emergencia
 RAI   RAI
